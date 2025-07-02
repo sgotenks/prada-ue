@@ -1,0 +1,20 @@
+{
+    "mappings": [
+      "/content/prada/:/",
+      "/content/prada/configuration:/.helix/config.json",
+      "/content/prada/metadata:/metadata.json",
+      "/content/prada/configs:/configs.json",
+      "/content/prada/configs-stage:/configs-stage.json",
+      "/content/prada/configs-dev:/configs-dev.json",
+      "/content/prada/redirects:/redirects.json",
+      "/content/prada/placeholders:/placeholders.json",
+      "/content/prada/products/recommended-products:/products/recommended-products.json",
+      "/content/prada/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/citisignal/images/products/:/images/products/",
+      "/content/prada/designs/design3:/designs/design3.json"
+    ],
+    "includes": [
+      "/content/prada",
+      "/content/dam/citisignal/images/products/" 
+    ]
+}
