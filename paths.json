@@ -1,20 +1,20 @@
 {
     "mappings": [
-      "/content/prada/:/",
-      "/content/prada/configuration:/.helix/config.json",
-      "/content/prada/metadata:/metadata.json",
-      "/content/prada/configs:/configs.json",
-      "/content/prada/configs-stage:/configs-stage.json",
-      "/content/prada/configs-dev:/configs-dev.json",
-      "/content/prada/redirects:/redirects.json",
-      "/content/prada/placeholders:/placeholders.json",
-      "/content/prada/products/recommended-products:/products/recommended-products.json",
-      "/content/prada/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/prada-demo/:/",
+      "/content/prada-demo/configuration:/.helix/config.json",
+      "/content/prada-demo/metadata:/metadata.json",
+      "/content/prada-demo/configs:/configs.json",
+      "/content/prada-demo/configs-stage:/configs-stage.json",
+      "/content/prada-demo/configs-dev:/configs-dev.json",
+      "/content/prada-demo/redirects:/redirects.json",
+      "/content/prada-demo/placeholders:/placeholders.json",
+      "/content/prada-demo/products/recommended-products:/products/recommended-products.json",
+      "/content/prada-demo/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/",
-      "/content/prada/designs/design3:/designs/design3.json"
+      "/content/prada-demo/designs/design3:/designs/design3.json"
     ],
     "includes": [
-      "/content/prada",
+      "/content/prada-demo",
       "/content/dam/citisignal/images/products/" 
     ]
 }

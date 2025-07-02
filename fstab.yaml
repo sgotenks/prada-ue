@@ -1,7 +1,7 @@
 # The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository.
 mountpoints:
    /:
-     url: "https://author-p129757-e1266090.adobeaemcloud.com/bin/franklin.delivery/sgotenks/prada/main"
+     url: "https://author-p129757-e1266090.adobeaemcloud.com/bin/franklin.delivery/sgotenks/prada-ue/main"
      type: "markup"
      suffix: ".html"
 
